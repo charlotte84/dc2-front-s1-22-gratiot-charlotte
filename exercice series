@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>liste serie</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster+Two&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+
+
+
+<li class="serie1">
+	Dahmer
+</li>
+<li class="serie2">
+	Good Doctor
+</li>
+<li class="serie3">
+	Atypical
+</li>
+<li class="serie4">
+	Stranger things
+</li>
+<li class="serie5">
+	Glow up
+</li>
+
+</body>
+</html>
+
+
+css
+
+.serie1, .serie2{
+	color: blue;
+	font-family:Raleway; 
+	border: 1px teal dashed;
+}
+
+.serie3, .serie4{
+	color: pink;
+
+}
+
+body{
+	background-image: url(IMG-2070.jpg);
+background-size: 200px 200px;
+}
+
+
